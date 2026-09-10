@@ -139,3 +139,4 @@ https://github.com/user-attachments/assets/7f833364-ffff-42cb-97da-12500d4e0490
     1. Распознавание объектов
     2. Голос
   <img width="960" height="1280" alt="060d41c0-553e-4b14-8fe0-182dcfbf6cb5" src="https://github.com/user-attachments/assets/a84d51ca-bb71-41b6-8a9f-5f85090a3323" />
+<img width="963" height="1280" alt="4b7a5412-3cda-4f3a-9e87-0210cb5ee2bf" src="https://github.com/user-attachments/assets/e740880f-5a17-43ef-9b08-22ce9ca8a425" />
