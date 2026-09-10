@@ -132,3 +132,7 @@ https://github.com/user-attachments/assets/7f833364-ffff-42cb-97da-12500d4e0490
       2. Оживление рисунков по промту
       3. Удобный сайт для загрузки и работы
 <img width="1823" height="1007" alt="Снимок экрана 2026-03-17 182939" src="https://github.com/user-attachments/assets/62c3b3fa-f3c5-4eb7-8d96-a7bb03ebaef7" />
+9. Physical AI
+    1. Распознавание объектов
+    2. Голос
+  <img width="960" height="1280" alt="060d41c0-553e-4b14-8fe0-182dcfbf6cb5" src="https://github.com/user-attachments/assets/a84d51ca-bb71-41b6-8a9f-5f85090a3323" />
