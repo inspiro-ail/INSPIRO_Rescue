@@ -1,4 +1,4 @@
-# INSPIRO_techcup
+# INSPIRO_RoboCup Rescue
 The list of projects which were made by our team members.
 
 Мы ученики 11 и 9 класса.
